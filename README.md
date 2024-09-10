@@ -82,7 +82,7 @@ Mean Square Error (Test) calculated manually: 2.094369603155757
 Root Mean Square Error (Test) calculated manually: 1.4471936992523693
 Absolute Mean Square Error (Test) calculated manually: 2.094369603155757
 
-Finaly Conclusion: 
+Finally Conclusion: 
 After calculating Training and Testing data performances and comparation between  them there is very very low difference so the data set is best for working in project we will get the best Accuracy and very  very low Loss values .
 
 
